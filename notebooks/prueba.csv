@@ -1,0 +1,8 @@
+campaign_id,channel,spend_usd,impressions,clicks,platform_conversions,tracked_revenue_usd,bounce_rate
+C_101,Google Search,"1,200","45,000","2,250",180,"9,000",0.35
+C_102,Meta Ads,"2,500","320,000","3,840",95,"3,800",0.58
+C_103,TikTok Ads,"1,800","450,000","5,400",12,480,0.82
+C_104,Google Search,800,"30,000","1,800",220,"11,000",0.28
+C_105,Meta Ads,"3,100","410,000","4,100",110,"4,400",0.62
+C_106,TikTok Ads,950,"210,000","2,310",0,0,0.95
+C_107,Google Search,"1,500","50,000","2,500",190,"9,500",0.32
